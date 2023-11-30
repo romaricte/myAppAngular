@@ -1,0 +1,36 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name": "computer",
+      "price": 2000,
+      "quantity": 3,
+      "selected": true,
+      "avalaible": true
+    },
+    {
+      "id":2,
+      "name": "samsung",
+      "price": 3000,
+      "quantity": 6,
+      "selected": false,
+      "avalaible": true
+    },
+    {
+      "id":3,
+      "name": "itel",
+      "price": 1000,
+      "quantity": 9,
+      "selected": true,
+      "avalaible": false
+    },
+    {
+      "id":4,
+      "name": "nokia",
+      "price": 4000,
+      "quantity": 6,
+      "selected": true,
+      "avalaible": true
+    }
+  ]
+}
